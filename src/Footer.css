@@ -1,0 +1,15 @@
+.footer {
+    background-color: #2a9d8f;
+    padding: 20px;
+    text-align: left;
+}
+
+
+.footer-section a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
